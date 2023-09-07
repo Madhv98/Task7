@@ -1,0 +1,38 @@
+
+.main-content {
+    overflow: scroll;
+    text-align: relative;
+    background-color: #fbf9f9; 
+    padding: 20px; 
+  
+}
+  .main-content h2 {
+    position: relative;
+    font-size: 30px;
+    background-color: #595c56; 
+    color: cornsilk;
+    padding: 20px; 
+    text-align: center;     
+  }
+  
+  .main-content p {
+    text-align: relative;
+    font-size: 16px; 
+    background-color: #595c56;
+    font-size: larger;
+    padding: 20px; 
+  }
+
+  .main-content img {
+    position: center;
+    padding: 1rem;
+    top:1rem;
+    left:30%;
+    max-width: 600px; 
+    height: auto;
+  }
+
+
+
+  
+  
